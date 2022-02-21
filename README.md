@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### About me
 I’m a B.Sc student in **Computer Science** at the University of Trento. I'm an intern at Fondazione Bruno Kessler (FBK)
 ### Contacts
 [
