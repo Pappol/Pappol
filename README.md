@@ -46,14 +46,3 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
   <img align="center" src="https://github.com/Pappol/Pappol/blob/output/github-contribution-grid-snake.svg" />
 </a>
 </p>
-<p align='center'>
-<a>
-  <img align="center" src="https://github.com/Pappol/Pappol/blob/main/rimuru.jpeg" />
-</a>
-</p>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
