@@ -29,18 +29,11 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
 </div>
   
 </br>
-<p align='center'>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pappol" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pappol&layout=compact" />
-</a>
-</p>
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigEmperor26)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact)](https://github.com/BigEmperor26/github-readme-stats)
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pappol)](https://github.com/anuraghazra/github-readme-stats)
+</br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pappol)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align='center'>
   <a>
   <img align="center" src="https://github.com/Pappol/Pappol/blob/output/github-contribution-grid-snake.svg" />
