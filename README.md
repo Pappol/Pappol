@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there</h1>
 
 <p align='center'>
-  <a href="[https://https://www.linkedin.com/in/riccardo-parola-37397b196/](https://www.linkedin.com/in/riccardo-parola-37397b196/">
+  <a href="https://https://www.linkedin.com/in/riccardo-parola-37397b196/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Pappol/">
