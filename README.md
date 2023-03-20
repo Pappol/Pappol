@@ -15,25 +15,12 @@
 I'm currently a Master's student of Artificial Intelligence Systems at the University of Trento 🤖
 
 ## Skills
-<div style="display: inline_block"><br>
-  <img height="40" align="center" alt="Erica-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
-
-</div>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats-navy-kappa.vercel.app/api?username=pappol&show_icons=true&count_private=true&theme=tokyonight" height=200></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats-navy-kappa.vercel.app/api/top-langs/?username=pappol&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css,scss,php&layout=compact&langs_count=6&exclude_repo=obsidian" height=200></a>
+</p>
   
 </br>
-
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pappol)](https://github.com/anuraghazra/github-readme-stats)
-</br> 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pappol)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align='center'>
   <a>
   <img align="center" src="https://github.com/Pappol/Pappol/blob/output/github-contribution-grid-snake.svg" />
