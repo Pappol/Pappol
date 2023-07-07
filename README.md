@@ -14,7 +14,6 @@
 
 I'm currently a Master's student of Artificial Intelligence Systems at the University of Trento 🤖
 
-## Skills
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats-navy-kappa.vercel.app/api/top-langs/?username=pappol&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css,scss,php&layout=compact&langs_count=6&exclude_repo=obsidian" height=200></a>
 </p>
