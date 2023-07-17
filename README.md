@@ -28,8 +28,11 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
 </div>
   
 </br>
+<div style="display: inline_block"><br>
 <p align='center'>
   <a>
   <img align="center" src="https://github.com/Pappol/Pappol/blob/output/github-contribution-grid-snake.svg" />
 </a>
 </p>
+</div>
+
