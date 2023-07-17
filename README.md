@@ -23,10 +23,9 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</br>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats-navy-kappa.vercel.app/api/top-langs/?username=pappol&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css,scss,php&layout=compact&langs_count=6&exclude_repo=obsidian" height=200></a>
-</p>
+  <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+
+</div>
   
 </br>
 <p align='center'>
