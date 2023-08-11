@@ -29,7 +29,6 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
 </div>
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pappol&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-navy-kappa.vercel.app/api/top-langs/?username=pappol&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css,scss,php&layout=compact&langs_count=6&exclude_repo=obsidian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pappol.visitor-badge)
