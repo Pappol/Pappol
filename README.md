@@ -32,12 +32,6 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
 ![Top Langs](https://github-readme-stats-navy-kappa.vercel.app/api/top-langs/?username=pappol&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css,scss,php&layout=compact&langs_count=6&exclude_repo=obsidian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pappol.visitor-badge)
-  
-</br>
-<p align='center'>
-  <a>
-  <img align="center" src="https://github.com/Pappol/Pappol/blob/output/github-contribution-grid-snake.svg" />
-</a>
-</p>
 
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
 
