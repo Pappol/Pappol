@@ -33,5 +33,5 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pappol.visitor-badge)
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pappol/Pappol/blob/output/github-contribution-grid-snake.svg)
 
