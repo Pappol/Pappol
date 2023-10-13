@@ -12,9 +12,10 @@
   </a> 
 </p>
 
-I'm currently a Master's student of Artificial Intelligence Systems at the University of Trento 🤖
-<h2> Stats</h2>
+I'm currently a Master's student of Artificial Intelligence Systems at the University of Trento and Universitet og Stavanger 🤖
+<h2>Welcome to my GitHub</h2>
 
+Here you will find some projects that I can share and some University notes from some of my courses, feel free to contact me for any collaborations 🤓
 <p align="center">
   <br/>
   <img height="40" align="center" alt="Erica-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
@@ -36,4 +37,3 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
   <br/>
   <img src="https://github.com/Pappol/Pappol/blob/output/github-contribution-grid-snake.svg">
 </p>
-
