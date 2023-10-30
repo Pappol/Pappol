@@ -35,7 +35,5 @@ Here you will find some projects that I can share and some University notes from
   <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pappol.visitor-badge">
   <br/>
-  <img src="https://github.com/Pappol/Pappol/blob/output/github-contribution-grid-snake.svg">
-  <br/>
   ₍ᐢ•(ܫ)•ᐢ₎
 </p>
