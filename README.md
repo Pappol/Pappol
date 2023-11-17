@@ -34,7 +34,6 @@ Here you will find some projects that I can share and some University notes from
     <img height="40" align="center" alt="Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   </span>
   <br/><br/><br/>
-  
   <img height="40" align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
@@ -43,7 +42,10 @@ Here you will find some projects that I can share and some University notes from
 </br>
 <p align="center">
   <img src="https://github-readme-stats-navy-kappa.vercel.app/api/top-langs/?username=pappol&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css,scss,php&layout=compact&langs_count=6&exclude_repo=obsidian">
-  <br/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Pappol&theme=tokyonight&exclude_days=Sun,Sat">
+  <br/><br/>
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pappol.visitor-badge">
   <br/>
   ₍ᐢ•(ܫ)•ᐢ₎
