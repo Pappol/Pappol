@@ -43,10 +43,15 @@ Here you will find some projects that I can share and some University notes from
 <p align="center">
   <img src="https://github-readme-stats-navy-kappa.vercel.app/api/top-langs/?username=pappol&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css,scss,php&layout=compact&langs_count=6&exclude_repo=obsidian">
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Pappol&theme=tokyonight&exclude_days=Sun,Sat">
+  <img src="https://streak-stats.demolab.com/?user=Pappol&theme=tokyonight">
   <br/><br/>
-
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pappol.visitor-badge">
   <br/>
-  ₍ᐢ•(ܫ)•ᐢ₎
+</p>
+
+  <br/>
+  <p align="center">
+  <img src="img/studio_capi.png" width="300" height="300">
+  </p>
+  <br/>
 </p>
