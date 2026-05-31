@@ -12,7 +12,8 @@
   </a> 
 </p>
 
-I'm currently a Master's student of Artificial Intelligence Systems at the University of Trento and Universitet og Stavanger 🤖
+AI and Data engeneer associate PwC, AI center of excellence
+
 <h2>Welcome to my GitHub</h2>
 
 Here you will find some projects that I can share and some University notes from some of my courses, feel free to contact me for any collaborations 🤓
